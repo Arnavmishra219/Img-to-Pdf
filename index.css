@@ -3,6 +3,32 @@ body{
   padding: 0;
   box-sizing: border-box;  
 }
+.imgtopdf{
+  text-align: center;
+  background-color: aqua;
+  border-radius: 30px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-size: 50px;
+  margin-top: 0px;
+}
+.arnav{
+  font-size: larger;
+  background-image: linear-gradient( to right, rgb(115, 255, 0),#fd0000);
+  text-align: center;
+  text-align: center;
+  background-color: aqua;
+  border-radius: 30px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-size: 50px;
+}
 .nav{
   padding: 0.5rem 1rem;
   background:white;
